@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Tahoma;
+}
+
+.wrapper {
+    display: flex;
+    position: relative;
+}
+
+#nav-bar {
+    background: whitesmoke;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+
+
+
+
+
+
+
+
+
